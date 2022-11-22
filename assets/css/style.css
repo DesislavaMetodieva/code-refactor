@@ -86,7 +86,7 @@ p {
     background-color: #2589bd;
 }
 
-/* Merged the below classes */
+/* Code applicable to aside element and their child section elements */
 
 .benefit-cost,
 .benefit-lead, 
@@ -111,6 +111,8 @@ p {
     max-width: 150px;
 }
 
+/* Code partaining to article */
+
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing
@@ -123,6 +125,7 @@ p {
     color: #ffffff;
 }
 
+/* Code partaining to imgs in article */ 
 
 .search-engine-optimization img,
 .online-reputation-management img,
@@ -130,6 +133,7 @@ p {
     max-height: 200px;
 }
 
+/* Code partaining to h2 in article */ 
 
 .search-engine-optimization h2,
 .online-reputation-management h2,
