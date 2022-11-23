@@ -14,7 +14,7 @@ No need for specific installation, you need only a web browser and good internet
 
 ## Usage 
 
-Please follow the URL, so you can open the application: https://desislavametodieva.github.io/code-refactor/
+Please follow the URL, so you can open the application: https://desislavametodieva.github.io/code-refactor-horiseon/
 
 ```md
 ![Horiseon-screenshot-webpage](/assets/images/Horiseon-screenshot.png)
