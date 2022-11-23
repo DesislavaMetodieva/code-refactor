@@ -86,7 +86,7 @@ p {
     background-color: #2589bd;
 }
 
-/* Code applicable to aside element and their child section elements */
+/* Code applicable to aside element and their child section elements. During the refactoring, I merged all attributes in one*/
 
 .benefit-cost,
 .benefit-lead, 
@@ -111,7 +111,7 @@ p {
     max-width: 150px;
 }
 
-/* Code partaining to article */
+/* Code partaining to article. During the refactoring, I merged all attributes in one */
 
 .search-engine-optimization,
 .online-reputation-management,
@@ -125,7 +125,7 @@ p {
     color: #ffffff;
 }
 
-/* Code partaining to imgs in article */ 
+/* Code partaining to imgs in article. During the refactoring, I merged all attributes in one */ 
 
 .search-engine-optimization img,
 .online-reputation-management img,
@@ -133,7 +133,7 @@ p {
     max-height: 200px;
 }
 
-/* Code partaining to h2 in article */ 
+/* Code partaining to h2 in article. During the refactoring, I merged all attributes in one */ 
 
 .search-engine-optimization h2,
 .online-reputation-management h2,
